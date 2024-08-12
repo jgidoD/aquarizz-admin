@@ -1,0 +1,10 @@
+.navLinkContainer_req > * {
+  padding: 8px 12px;
+  margin: 4px 0;
+  font-weight: 600;
+}
+
+.navLinkContainer_req > *:hover {
+  border-radius: 24px;
+  background-color: #ffe4a3;
+}

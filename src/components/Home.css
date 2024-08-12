@@ -1,0 +1,19 @@
+.navLinkContainer > * {
+  padding: 8px 12px;
+  margin: 4px 0;
+  font-weight: 600;
+}
+
+.navLinkContainer > *:hover {
+  border-radius: 22px;
+  background-color: #ffe4a3;
+}
+
+.active_dash {
+  background-color: #ffc947;
+  border-radius: 22px;
+}
+
+.inactive_dash {
+  background-color: #fff;
+}
